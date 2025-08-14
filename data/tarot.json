@@ -1,0 +1,17 @@
+[
+  {
+    "name": "The Fool",
+    "meaning": "Khởi đầu mới, sự ngây thơ, tiềm năng.",
+    "image": "fool.jpg"
+  },
+  {
+    "name": "The Magician",
+    "meaning": "Sức mạnh, sáng tạo, hành động.",
+    "image": "magician.jpg"
+  },
+  {
+    "name": "The Lovers",
+    "meaning": "Tình yêu, lựa chọn, sự hòa hợp.",
+    "image": "lovers.jpg"
+  }
+]
