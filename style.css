@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(to right, #2c3e50, #34495e);
+  color: #fff;
+  font-family: 'Georgia', serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #8e44ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 20px;
+}
+
+.card {
+  width: 150px;
+  text-align: center;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
